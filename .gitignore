@@ -1,0 +1,10 @@
+venv/
+# Ignorar outros arquivos de configuração de IDEs (opcional)
+.idea/
+.vscode/
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+# Ignorar arquivos de log
+*.log
